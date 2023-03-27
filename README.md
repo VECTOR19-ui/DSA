@@ -1,12 +1,12 @@
 # DSA
 This repository contains the basic data structures and algorithms programs. For data structures such as:
 
- • Arrays 
- • Linked lists 
- • Stack
- • Queue
- • Trees
- • Graph
+• Arrays 
+• Linked lists 
+• Stack
+• Queue
+• Trees
+• Graph
 
 and for algorithms such as:
  
