@@ -1,8 +1,8 @@
 # DSA
-This repository contains the basic data structures and algorithms programs. For data structures such as:
-
-• Arrays 
-
+<p>This repository contains the basic data structures and algorithms programs. For data structures such as:</p>
+<ul>
+<li>Arrays</li>
+</ul>
 • Linked lists 
 
 • Stack
