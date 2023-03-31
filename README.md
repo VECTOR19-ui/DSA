@@ -9,7 +9,7 @@
 <li>Graph</li>
 </ul>
 <p>and for algorithms such as:</p>
-★ Sorting algorithms such as:
+<h2>Sorting algorithms</h2>
   - Bubble sort
   - Selection sort
   - Insertion sort
