@@ -2,19 +2,13 @@
 <p>This repository contains the basic data structures and algorithms programs. For data structures such as:</p>
 <ul>
 <li>Arrays</li>
+<li>Linked list</li>
+<li>Stack</li>
+<li>Queue</li>
+<li>Trees</li>
+<li>Graph</li>
 </ul>
-• Linked lists 
-
-• Stack
-
-• Queue
-
-• Trees
-
-• Graph
-
-and for algorithms such as:
- 
+<p>and for algorithms such as:</p>
 ★ Sorting algorithms such as:
   - Bubble sort
   - Selection sort
