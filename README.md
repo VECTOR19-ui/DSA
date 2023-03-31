@@ -26,7 +26,7 @@
   - Cycle sort
   - Tim sort
  
-★ Hashing algorithms such as:
+<h2>Hashing algorithms</h2>
   - Linear search
   - Binary search 
   - Recursive binary search 
@@ -36,7 +36,7 @@
   - Quadratic probing 
   - Hash table implementation with double hashing
  
-★ And other algorithms such as:
+<h2>And other algorithms</h2>
   - Knapsack problem 
   - Knapsack 0-1 problem
   - N-Queen problem
