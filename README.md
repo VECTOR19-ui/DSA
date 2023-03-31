@@ -10,6 +10,7 @@
 </ul>
 <p>and for algorithms such as:</p>
 <h2>Sorting algorithms</h2>
+<pre>
   - Bubble sort
   - Selection sort
   - Insertion sort
@@ -25,8 +26,9 @@
   - Bitonic sort
   - Cycle sort
   - Tim sort
- 
+</pre>
 <h2>Hashing algorithms</h2>
+<pre>
   - Linear search
   - Binary search 
   - Recursive binary search 
@@ -35,8 +37,9 @@
   - Linear probing
   - Quadratic probing 
   - Hash table implementation with double hashing
- 
+ </pre>
 <h2>And other algorithms</h2>
+<pre>
   - Knapsack problem 
   - Knapsack 0-1 problem
   - N-Queen problem
@@ -46,3 +49,4 @@
   - Tower of Hanoi 
   - Traveling salesman problem
   - Checksum program
+</pre>
