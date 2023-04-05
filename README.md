@@ -20,7 +20,7 @@
   <li>Shell sort</li>
   <li>Counting sort</li>
   <li>Bucket sort</li>
-  <li>Radix sort<li> 
+  <li>Radix sort</li> 
   <li>Topological sort</li>
   <li>Comb sort</li>
   <li>Bitonic sort</li>
