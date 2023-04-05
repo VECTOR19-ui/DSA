@@ -10,7 +10,6 @@
 </ul>
 <p>and for algorithms such as:</p>
 <h2>Sorting algorithms</h2>
-<pre>
  <ul>
   <li>Bubble sort</li>
   <li>Selection sort</li>
