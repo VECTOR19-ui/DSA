@@ -11,42 +11,43 @@
 <p>and for algorithms such as:</p>
 <h2>Sorting algorithms</h2>
 <pre>
-  - Bubble sort
-  - Selection sort
-  - Insertion sort
-  - Quick sort
-  - Heap sort
-  - Merge sort 
-  - Shell sort
-  - Counting sort
-  - Bucket sort
-  - Radix sort 
-  - Topological sort
-  - Comb sort
-  - Bitonic sort
-  - Cycle sort
-  - Tim sort
-</pre>
+ <ul>
+  <li>Bubble sort</li>
+  <li>Selection sort</li>
+  <li>Insertion sort</li>
+  <li>Quick sort</li>
+  <li>Heap sort</li>
+  <li>Merge sort</li> 
+  <li>Shell sort</li>
+  <li>Counting sort</li>
+  <li>Bucket sort</li>
+  <li>Radix sort<li> 
+  <li>Topological sort</li>
+  <li>Comb sort</li>
+  <li>Bitonic sort</li>
+  <li>Cycle sort</li>
+  <li>Tim sort</li>
+ </ul>
 <h2>Hashing algorithms</h2>
-<pre>
-  - Linear search
-  - Binary search 
-  - Recursive binary search 
-  - Hash table implementation
-  - Hash table implementation chaining with binary tree
-  - Linear probing
-  - Quadratic probing 
-  - Hash table implementation with double hashing
- </pre>
+<ul>
+  <li>Linear search</li>
+  </li>Binary search</li> 
+  <li>Recursive binary search</li> 
+  <li>Hash table implementation</li>
+  <li>Hash table implementation chaining with binary tree</li>
+  <li>Linear probing</li>
+  <li>Quadratic probing</li> 
+  <li>Hash table implementation with double hashing</li>
+ </ul>
 <h2>And other algorithms</h2>
-<pre>
-  - Knapsack problem 
-  - Knapsack 0-1 problem
-  - N-Queen problem
-  - Kruskal's algorithm
-  - Prims algorithm
-  - Dijkastra algorithm
-  - Tower of Hanoi 
-  - Traveling salesman problem
-  - Checksum program
-</pre>
+<ul>
+  <li>Knapsack problem</li> 
+  <li>Knapsack 0-1 problem</li>
+  <li>N-Queen problem</li>
+  <li>Kruskal's algorithm</li>
+  <li>Prims algorithm</li>
+  <li>Dijkastra algorithm</li>
+  <li>Tower of Hanoi</li> 
+  <li>Traveling salesman problem</li>
+  <li>Checksum program</li>
+</ul>
