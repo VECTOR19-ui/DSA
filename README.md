@@ -30,7 +30,7 @@
 <h2>Hashing algorithms</h2>
 <ul>
   <li>Linear search</li>
-  </li>Binary search</li> 
+  <li>Binary search</li> 
   <li>Recursive binary search</li> 
   <li>Hash table implementation</li>
   <li>Hash table implementation chaining with binary tree</li>
