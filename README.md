@@ -1,5 +1,5 @@
 # DSA
-
+<p>Data structures are the programmatic ways of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or other way.</p>
 <h3>Table of contents</h3>
  <ul>
 <a><li>About</li></a>
