@@ -7,8 +7,6 @@
 <a><li>Deployment</li></a>
 <a><li>Usage</li></a>
 <a><li>Built using</li></a>
-<a><li>TODO</li></a>
-<a><li>Contributing</li></a>
 <a><li>Authors</li></a>
 <a><li>Acknowledgments</li></a>
  </ul><p>This repository contains the basic data structures and algorithms programs. For data structures such as:</p>
