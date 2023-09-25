@@ -13,6 +13,9 @@
 <h2>🎈 Usage</h2>
 <h2>🚀 Deployment</h2>
 <h2>⛏️ Built using</h2>
+<ul>
+<li>C</li>
+</ul>
 <h2>✍️ Authors</h2>
 @VECTOR19-ui
 <h2>🎉 Acknowledgemwnt</h2> 
