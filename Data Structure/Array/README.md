@@ -4,4 +4,8 @@
 <p><b>Basic array operations</b></p>
 <ul>
 <li>Array traverse</li>
+<li>Array insertion</li>
+<li>Array deletion</li>
+<li>Array search</li>
+<li>Array update</li>
 </ul>
