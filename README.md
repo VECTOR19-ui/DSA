@@ -6,6 +6,8 @@
 <p>This repository is full of data structures and algorithms with different basic programming languages to show how to store data in a programmatic and systematic way for an efficient and effective use.</p>
 <p>
 <p>A data structure is a way of organizing and storing data in a computer system so that it can be efficiently accessed and manipulated. It provides a way to represent the relationships between different data elements and enables efficient operations such as insertion, deletion, searching, and sorting. Examples of common data structures include arrays, linked lists, stacks, queues, trees, graphs, and hash tables. The choice of a data structure depends on the specific requirements and constraints of the problem being solved.</p>
+<p>
+<p>An algorithm is a set of step-by-step instructions or procedures designed to solve a particular problem or accomplish a specific task. In computer science, algorithms are typically used to process and manipulate data, perform calculations, and solve problems. An algorithm must have a finite, well-defined set of instructions that can be executed by a computer, and must produce the correct output for a given input under all conditions. The correctness, efficiency, and complexity of an algorithm can be evaluated and analyzed using various techniques such as time and space complexity analysis. Examples of algorithms include sorting algorithms, searching algorithms, and encryption algorithms.</p>
 <h2>🏁 Getting started</h2>
 <h2>🔧 the tests</h2>
 <h2>🎈 Usage</h2>
