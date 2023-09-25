@@ -11,7 +11,7 @@
 <h2>✍️ Authors</h2>
 @VECTOR19-ui
 <h2>🎉 Acknowledgemwnt</h2> 
-</ul><
+</ul>
 <p>This repository  the basic data structures and algorithms programs. For data structures such as:</p>
 <ul>
 <li>Arrays</li>
