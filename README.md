@@ -3,6 +3,7 @@
 <h3>Table of contents</h3>
  <ul>
 <h2>🧐 About</h2>
+<p>This repository is full of data structures and algorithms with different basic programming languages to show how to store data in a programmatic and systematic way for an efficient and effective use.</p>
 <h2>🏁 Getting started</h2>
 <h2>🔧 Running the tests</h2>
 <h2>🎈 Usage</h2>
