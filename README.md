@@ -2,14 +2,17 @@
 <p>Data structures are the programmatic ways of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or other way.</p>
 <h3>Table of contents</h3>
  <ul>
-<a><li>About</li></a>
-<a><li>Getting started</li></a>
-<a><li>Deployment</li></a>
-<a><li>Usage</li></a>
-<a><li>Built using</li></a>
-<a><li>Authors</li></a>
-<a><li>Acknowledgments</li></a>
- </ul><p>This repository contains the basic data structures and algorithms programs. For data structures such as:</p>
+<h2>🧐 About</h2>
+<h2>🏁 Getting started</h2>
+<h2>🔧 Running the tests</h2>
+<h2>🎈 Usage</h2>
+<h2>🚀 Deployment</h2>
+<h2>⛏️ Built using</h2>
+<h2>✍️ Authors</h2>
+@VECTOR19-ui
+<h2>🎉 Acknowledgemwnt</h2> 
+</ul><
+<p>This repository  the basic data structures and algorithms programs. For data structures such as:</p>
 <ul>
 <li>Arrays</li>
 <li>Linked list</li>
