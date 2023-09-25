@@ -4,8 +4,10 @@
  <ul>
 <h2>🧐 About</h2>
 <p>This repository is full of data structures and algorithms with different basic programming languages to show how to store data in a programmatic and systematic way for an efficient and effective use.</p>
+<p>
+<p>A data structure is a way of organizing and storing data in a computer system so that it can be efficiently accessed and manipulated. It provides a way to represent the relationships between different data elements and enables efficient operations such as insertion, deletion, searching, and sorting. Examples of common data structures include arrays, linked lists, stacks, queues, trees, graphs, and hash tables. The choice of a data structure depends on the specific requirements and constraints of the problem being solved.</p>
 <h2>🏁 Getting started</h2>
-<h2>🔧 Running the tests</h2>
+<h2>🔧 the tests</h2>
 <h2>🎈 Usage</h2>
 <h2>🚀 Deployment</h2>
 <h2>⛏️ Built using</h2>
